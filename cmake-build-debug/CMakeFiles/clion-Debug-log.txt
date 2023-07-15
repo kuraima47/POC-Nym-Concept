@@ -1,0 +1,7 @@
+"C:\Program Files\JetBrains\CLion 2023.1.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2023.1.2/bin/ninja/win/x64/ninja.exe" -G Ninja -S C:\Users\tpott\CLionProjects\untitled -B C:\Users\tpott\CLionProjects\untitled\cmake-build-debug
+-- Found OpenSSL 3.1.0
+-- OpenSSL include directory: C:/Program Files/OpenSSL-Win64/include
+-- OpenSSL libraries: C:/Program Files/OpenSSL-Win64/lib/libssl.lib;C:/Program Files/OpenSSL-Win64/lib/libcrypto.lib
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/tpott/CLionProjects/untitled/cmake-build-debug
